@@ -1,0 +1,11 @@
+llama-index==0.7.21 
+llama_hub==0.0.19
+torch
+streamlit
+sentencepiece 
+langchain 
+einops 
+accelerate 
+transformers 
+bitsandbytes 
+scipy
